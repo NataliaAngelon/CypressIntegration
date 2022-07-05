@@ -1,7 +1,7 @@
 {
   "scripts": {
 
-    "scripts": "cypress run --spec ./cypress/e2e/1-getting-started/todo.cy.js",
+    "scripts": "cypress run --browser chrome --spec ./cypress/e2e/1-getting-started/todo.cy.js",
     "test": "npm run scripts "
 
 },
